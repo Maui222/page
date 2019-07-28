@@ -1,2 +1,3 @@
 # page
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8ea38983396b4a88aec782957e4a7579)](https://app.codacy.com/app/Maui/page?utm_source=github.com&utm_medium=referral&utm_content=Maui222/page&utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8639c0aa36fa48249aee2b295c55e5f8)](https://app.codacy.com/app/Maui222/page?utm_source=github.com&utm_medium=referral&utm_content=Maui222/page&utm_campaign=Badge_Grade_Settings)
